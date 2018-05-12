@@ -1,0 +1,30 @@
+_repo: Love-s-Usuries_33380
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Creswicke, Louis
+    gutenberg_agent_id: '25997'
+    url: http://www.gutenberg.org/2009/agents/25997
+description: ''
+gutenberg_issued: '2010-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Fiction'
+tableOfContents: Love's usuries -- A quaint elopement -- Trooper Jones of the Light
+  Brigade -- The "Celibate" Club (dialogue) -- In the cradle of the deep -- Some crazy
+  patchwork -- "The soul of me" -- In a cornfield (dialogue) -- On the eve of the
+  regatta -- Peach bloom -- Twin souls (dialogue) -- Pain's pensioners -- For love
+  or science? -- Romance of the coulisses.
+title: Love's Usuries
+url: http://www.gutenberg.org/ebooks/33380
